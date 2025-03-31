@@ -5,11 +5,11 @@
 <br>● ***Edad***: 23 <br>
 <br>● ***Localidad***: Grand Bourg<br>
 <br>● ***Estudiante de Programación***<br>
-### Lenguajes de Programación Favoritos ⌨️
+## Lenguajes de Programación Favoritos ⌨️
 <br>● ***Python***<br>
 <br>● ***JavaScript***<br>
 <br>● ***HTML***<br>
-### Hobbies e intereses
+## Hobbies e intereses
 <br>● ***Videojuegos🎮<br>
 <br>● ***Gimnasio***<br>
 <br>● ***Dibujo o cualquier cosa relacionada la arte*** <br>
