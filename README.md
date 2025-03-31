@@ -1,7 +1,7 @@
 # Brian Tobias Veron 🐲
-<div align="center" > 
-  < img ![yo](https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30) />
-</div>
+<p align="center" > 
+  <img src="![yo](https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30)" />
+</p>
 ## Buenass, un poco sobre mi
 <br>● ***Edad***: 23 <br>
 <br>● ***Localidad***: Grand Bourg<br>
