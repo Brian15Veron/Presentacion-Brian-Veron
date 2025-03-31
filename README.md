@@ -1,6 +1,6 @@
 # Presentacion-Brian-Veron
 - Presentacion par la materia lab. pro. y lenguajes UNPAZ 2025
-  ![yo](https://github.com/user-attachments/assets/9a4a9b52-864a-4a70-9e92-85dd3253de45)
+  ![yo]
 ## Buenass, un poco sobre mi
 <br>● ***Edad***: 23 <br>
 <br>● ***Localidad***: Grand Bourg<br>
