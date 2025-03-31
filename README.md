@@ -1,7 +1,6 @@
 # Presentacion-Brian-Veron
 - Brian Tobias Veron
-  <h1 align="center"> ![yo](https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30) </h1>
-
+<h1 align="center"> ![yo](https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30)
 ## Buenass, un poco sobre mi
 <br>● ***Edad***: 23 <br>
 <br>● ***Localidad***: Grand Bourg<br>
