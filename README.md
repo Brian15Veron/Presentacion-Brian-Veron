@@ -1,6 +1,6 @@
 # Presentacion-Brian-Veron
-- Presentacion par la materia lab. pro. y lenguajes UNPAZ 2025
-  ![yo](https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30)
+- Brian Tobias Veron
+  <h1 align="center"> ![yo](https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30) </h1>
 
 ## Buenass, un poco sobre mi
 <br>● ***Edad***: 23 <br>
