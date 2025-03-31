@@ -2,7 +2,8 @@
 <div align="center" > 
   <img src="https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30" />
 </div>
-## Buenass, un poco sobre mi
+
+##Buenass, un poco sobre mi
 <br>● ***Edad***: 23 <br>
 <br>● ***Localidad***: Grand Bourg<br>
 <br>● ***Estudiante de Programación***<br>
