@@ -1,6 +1,7 @@
 # Brian Tobias Veron 🐲
 una foto vieja y otra actual :)
-![Este soy yo](https://github.com/user-attachments/assets/213c973c-495f-453b-a935-f8a7f36c0ff8)
+![Estesoyyo](https://github.com/user-attachments/assets/213c973c-495f-453b-a935-f8a7f36c0ff8)
+
 ## Buenasss, un poco sobre mi
 <br>● ***Edad***: 23 años<br>
 <br>● ***Localidad***: Grand Bourg<br>
