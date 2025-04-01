@@ -1,8 +1,8 @@
 # Brian Tobias Veron 🐲
++una foto vieja y otra actual :)
 <div align="center" > 
   <img src="https://github.com/user-attachments/assets/607e8dae-064f-440b-862d-72409fb99fe5" />
 </div>
- - una foto vieja y otra actual :)
 ## Buenasss, un poco sobre mi
 <br>● ***Edad***: 23 años<br>
 <br>● ***Localidad***: Grand Bourg<br>
