@@ -7,7 +7,7 @@ una foto vieja y otra actual :)
 ## Buenasss, un poco sobre mi
 <br>● ***Edad***: 23 años<br>
 <br>● ***Localidad***: Grand Bourg<br>
-<br>● ***Estudiante de Programación***<br>
+<br>● ***Estudiante de LGTI***<br>
 ## Lenguajes de Programación Favoritos
 <br>● ***Python***<br>
 <br>● ***JavaScript***<br>
