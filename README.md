@@ -1,6 +1,6 @@
 # Brian Tobias Veron 🐲
 <div align="center" > 
-  <img src="https://github.com/user-attachments/assets/d345aeff-4358-4eb5-8169-4dd1d2825a30" />
+  <img src="https://github.com/user-attachments/assets/607e8dae-064f-440b-862d-72409fb99fe5" />
 </div>
 
 ## Buenasss, un poco sobre mi
