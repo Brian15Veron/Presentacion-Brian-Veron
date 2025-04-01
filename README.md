@@ -1,5 +1,5 @@
 # Brian Tobias Veron 🐲
-+una foto vieja y otra actual :)
+una foto vieja y otra actual :)
 <div align="center" > 
   <img src="https://github.com/user-attachments/assets/607e8dae-064f-440b-862d-72409fb99fe5" />
 </div>
