@@ -5,7 +5,7 @@ una foto vieja y otra actual :)
 </div>
 
 ## Buenasss, un poco sobre mi
-<br>● ***Edad***: 23 años<br>
+● ***Edad***: 23 años
 <br>● ***Localidad***: Grand Bourg<br>
 <br>● ***Estudiante de Programación***<br>
 ## Lenguajes de Programación Favoritos
